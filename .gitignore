@@ -1,0 +1,42 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Git
+*.lock
+
+# Логи
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+notes.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+.env
+
+# Go
+bin/
+*.exe
+*.out
+vendor/
+
+# Node.js / JavaScript
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Общие
+*.swp
+*.tmp
+*.bak
+*.orig
