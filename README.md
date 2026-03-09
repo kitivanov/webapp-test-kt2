@@ -39,7 +39,7 @@ pip install -r requirements.txt
 ```
 
 ```bash
-pytest kt2/test_kt2.py -v
+pytest test_kt2.py -v
 ```
 
 ---
